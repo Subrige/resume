@@ -1,9 +1,5 @@
-## Nice to meet U
+## thanks to 
 
-Hey, guys ~ Here is my little world ☞  [[ Nice Shot ! ]](https://www.chen9.info/) 
+[Zchen]: https://github.com/zchen9/zchen9.github.io
 
-Hope you can enjoy it :)
 
-## LICENSE
-
-[The MIT License (MIT)](https://github.com/zchen9/zchen9.github.io/blob/master/LICENSE)
