@@ -1,0 +1,27 @@
+# Site settings
+title: '差一分'  # Your Title
+tagline: '一般通过中学生'  # A brief tagline for your site
+timezone: 'Asia/Shanghai'
+destination: ./_site
+
+# Build settings
+encoding: UTF-8
+markdown: kramdown
+#for publish
+#highlighter: pygments
+#for local
+#highlighter: true
+baseurl: # the subpath of your site, e.g. /blog/
+codeurl: //github.com/Subrige
+fragmenturl: /subrige.xyz/
+
+# Personal info
+avatar: ./images/avatar.jpg
+email: systemydh@icloud.com/
+github: https://github.com/Subrige
+twitter: https://twitter.com/Subrige
+spotify: https://y.music.163.com/m/user?id=112949568
+ins: https://www.instagram.com/Subrige/
+
+# Logo setting
+logocolor: '#000'
