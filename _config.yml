@@ -13,7 +13,7 @@ markdown: kramdown
 #highlighter: true
 baseurl: # the subpath of your site, e.g. /blog/
 codeurl: //github.com/Subrige
-fragmenturl: /subrige.xyz/
+fragmenturl: https://subrige.xyz/
 
 # Personal info
 avatar: ./images/avatar.jpg
